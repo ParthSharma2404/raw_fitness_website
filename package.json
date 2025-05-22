@@ -2,7 +2,7 @@
   "name": "raw",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ParthSharma2404.github.io/RAW",
+  "homepage": "https://ParthSharma2404.github.io/raw_fitness_website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
